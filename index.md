@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 
-![abeille](https://media.istockphoto.com/vectors/creative-abstract-bumblebee-logo-design-vector-symbol-illustration-vector-id1159631125)
+![Fleur](https://github.com/are-dynamic-2022-g3/Pollinisation/blob/gh-pages/Images/Logo.jpg)
 
 
 
