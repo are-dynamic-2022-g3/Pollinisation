@@ -26,7 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ![abeille](https://media.istockphoto.com/vectors/creative-abstract-bumblebee-logo-design-vector-symbol-illustration-vector-id1159631125)
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see 
+[Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
