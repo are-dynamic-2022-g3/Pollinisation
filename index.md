@@ -32,7 +32,7 @@ T
 ![Fleur](https://github.com/are-dynamic-2022-g3/Pollinisation/blob/gh-pages/Images/Logo.jpg)
 
 
-
+![Resultat](https://github.com/are-dynamic-2022-g3/Pollinisation/blob/gh-pages/resultat_simulation_vent_avec_taux.PNG)
 
 For more details see 
 [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
