@@ -88,6 +88,7 @@ Nous avons également travaillé sur plusieurs visualisations graphiques modéli
 
 Cette semaine, sur tkinter, nous avons réussi à créer une fleur, et la faire apparaître sur la parcelle. 
 
-Nous avons aussi amélioré le programme en implémentant le taux de germination des plantes (la probabilité qu’elles ont de créer une nouvelle fleur ou non). Nous pouvons par exemple voir à l’aide de ces deux graphiques que le nombre de plantes est plus important sur le graphique sans le taux de germination que celui avec : 
+Nous avons aussi amélioré le programme en implémentant le taux de germination des plantes (la probabilité qu’elles ont de créer une nouvelle fleur ou non). Nous pouvons par exemple voir à l’aide de ces deux graphiques que le nombre de plantes est plus important sur le graphique sans le taux de germination que celui avec :
+(mettre les deux graphiques : résultat simulation vent avec et sans taux)
 
 
