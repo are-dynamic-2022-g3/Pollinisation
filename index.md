@@ -45,19 +45,23 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-Thème : Pollinisation 
+
+### Thème
+
+Pollinisation 
 
  
-
-Description du projet : 
+### Description du projet 
 
 Notre projet consiste à étudier le comportement des différents pollinisateurs et comment les plantes évoluent et se propagent. Nous avons décidé d’étudier le comportement des principaux pollinisateurs : le vent, les insectes et animaux pollinisateurs (ici on prendra les abeilles), et l’humain.  
 
-//Problématique :  Est-ce que tous les moyens de pollinisation se valent (en fonction des pays …) ? // 
 
- 
+### //Problématique 
 
-### Description du modèle :  
+Est-ce que tous les moyens de pollinisation se valent (en fonction des pays …) ? // 
+
+
+### Description du modèle  
 
 Notre modèle permet de simuler l’évolution des plantes dans un environnement donné grâce à la propagation du pollen par les différents pollinisateurs mis en jeu et leurs caractéristiques (ex : le sens du vent, le nombre d’abeilles, ...). Notre modèle dynamique fonctionne ainsi : 
 
@@ -90,7 +94,7 @@ Critères de la pollinisation par les abeilles :
 3) L'abeille dépose le pollen récupéré sur une surface comprise dans un rayon de 2 surfaces ("2 cases dans le tableau, selon x et y") et si celle-ci est vide, alors un germe y est planté. 
 
 
-Critères du modèle de pollinisation par l'homme 
+Critères du modèle de pollinisation par l'homme :
 
 L'humain pourra polliniser "à la main" un maximum de 6 plantes par jours. Il s'occupe seul de la parcelle en suivant la démarche ci-dessous : 
 
@@ -103,12 +107,13 @@ Un seul moyen de pollinisation suffit.
 
  
 
-### // Objectifs : 
+### // Objectifs
+
 Démontrer que chaque moyen de polliniser n’a pas la même efficacité en fonction de l’endroit où se trouve la plante (et le type de plante ?) // 
 
  
 
-### // Critères d’évaluation :  
+### // Critères d’évaluation  
 
 L’évolution des fleurs en fonction du temps en modifiant les facteurs les impactant. 
 
@@ -120,7 +125,7 @@ Evaluer le taux de reproduction chez la plante en fonction du pollinisateur
 
  
 
-### Résultats :  
+### Résultats  
 
 
 
