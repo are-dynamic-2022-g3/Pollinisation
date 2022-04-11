@@ -83,6 +83,8 @@ Cette semaine nous avons commencé à travailler la partie graphique de notre mo
 
 Nous avons également travaillé sur plusieurs visualisations graphiques modélisant l’évolution de la pollinisation au cours du temps et selon le ou les pollinisateurs mis en jeu, via Matplotlib. 
 
+Nous avons aussi continué nos recherches et avons établi les informations principales à mettre dans notre site web (description du projet, hypothèses, ...).
+
   
 ### Semaine 5 : 
 
