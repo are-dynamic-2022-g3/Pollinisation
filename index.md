@@ -46,12 +46,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-### Thème
+## Thème
 
 Pollinisation 
 
  
-### Description du projet 
+# Description du projet 
 
 Notre projet consiste à étudier le comportement des différents pollinisateurs et comment les plantes évoluent et se propagent. Nous avons décidé d’étudier le comportement des principaux pollinisateurs : le vent, les insectes et animaux pollinisateurs (ici on prendra les abeilles), et l’humain.  
 
