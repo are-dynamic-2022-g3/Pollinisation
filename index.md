@@ -78,7 +78,7 @@ Chaque individu de la population sera représenté par un chiffre (float) qui in
 De plus, on notera un indicateur "P" (PLEIN), "M" (MOITIE) et "V" (VIDE) qui informera sur la réserve de nectar d'un individu (il faut 2 jours à un individu pour "remplir ses réserves"). 
 
 
-### Critères de la dispersion du pollen par le vent :
+#### Critères de la dispersion du pollen par le vent :
 
 1) La fonction cherche au hasard une plante qui est arrivée à maturité (>1.25) et une direction dans laquelle le vent souffle; 
 2) Elle calcule les coordonnées d'une surface sur laquelle déposer le germe de la plante émettrice (elle ne cherche qu'UNE FOIS un emplacement, si cet emplacement n'est pas libre/en dehors de la parcelle, la pollinisation ne se fait pas); 
