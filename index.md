@@ -36,7 +36,7 @@ De plus, on notera un indicateur "P" (PLEIN), "M" (MOITIE) et "V" (VIDE) qui inf
 2) Elle calcule les coordonnées d'une surface sur laquelle déposer le germe de la plante émettrice (elle ne cherche qu'UNE FOIS un emplacement, si cet emplacement n'est pas libre/en dehors de la parcelle, la pollinisation ne se fait pas); 
 3) Le germe est déposé dans la surface obtenue (0.5) et devra croître pour donner une nouvelle plante. 
  
-AINSI, ON CONTRÔLERA LA FORCE DU VENT EN APPLIQUANT PLUSIEURS FOIS LA FONCTION (le nombre de répétitions correspond à l'index de la force du vent). 
+**AINSI, ON CONTRÔLERA LA FORCE DU VENT EN APPLIQUANT PLUSIEURS FOIS LA FONCTION (le nombre de répétitions correspond à l'index de la force du vent). **
 
 
 ### Critères de la pollinisation par les abeilles :
