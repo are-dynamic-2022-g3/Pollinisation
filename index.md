@@ -45,6 +45,84 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
+Thème : Pollinisation 
+
+ 
+
+Description du projet : 
+
+Notre projet consiste à étudier le comportement des différents pollinisateurs et comment les plantes évoluent et se propagent. Nous avons décidé d’étudier le comportement des principaux pollinisateurs : le vent, les insectes et animaux pollinisateurs (ici on prendra les abeilles), et l’humain.  
+
+//Problématique :  Est-ce que tous les moyens de pollinisation se valent (en fonction des pays …) ? // 
+
+ 
+
+### Description du modèle :  
+
+Notre modèle permet de simuler l’évolution des plantes dans un environnement donné grâce à la propagation du pollen par les différents pollinisateurs mis en jeu et leurs caractéristiques (ex : le sens du vent, le nombre d’abeilles, ...). Notre modèle dynamique fonctionne ainsi : 
+
+
+Base du modèle :
+
+Le modèle consiste en une parcelle de terrain carrée dans laquelle se situe une population de plantes. Chaque jour, les plantes sont arrosées et on suppose qu'aucune espèce envahissante ne perturbe la croissance de l'espèce. 
+Chaque individu de la population sera représenté par un chiffre (float) qui indiquera son "âge" (ou son état de vie). 
+
+- 0.0 correspond à une surface vide; 
+- 0.5 correspond à un germe qui a été inséré dans la surface; 
+- Une valeur dans l'intervalle {1.0 ; 2.0} décrit le cycle de vie de la plante (1.0 étant son éclosion et 2.0 la "veille" de sa mort (l'individu est encore fertile) pour simplifier le modèle). 
+ 
+De plus, on notera un indicateur "P" (PLEIN), "M" (MOITIE) et "V" (VIDE) qui informera sur la réserve de nectar d'un individu (il faut 2 jours à un individu pour "remplir ses réserves"). 
+
+
+Critères de la dispersion du pollen par le vent :
+
+1) La fonction cherche au hasard une plante qui est arrivée à maturité (>1.25) et une direction dans laquelle le vent souffle; 
+2) Elle calcule les coordonnées d'une surface sur laquelle déposer le germe de la plante émettrice (elle ne cherche qu'UNE FOIS un emplacement, si cet emplacement n'est pas libre/en dehors de la parcelle, la pollinisation ne se fait pas); 
+3) Le germe est déposé dans la surface obtenue (0.5) et devra croître pour donner une nouvelle plante. 
+ 
+AINSI, ON CONTRÔLERA LA FORCE DU VENT EN APPLIQUANT PLUSIEURS FOIS LA FONCTION (le nombre de répétitions correspond à l'index de la force du vent). 
+
+
+Critères de la pollinisation par les abeilles :
+
+1) On libère un nombre d'abeilles que l'utilisateur définit dans la parcelle; 
+2) Chaque abeille visite un individu mature au hasard (par simplicité), se nourrit du nectar de la plante et collecte son pollen (on notera que s'il y a plus d'abeilles que d'individus, certaines abeilles ne feront "rien"); 
+3) L'abeille dépose le pollen récupéré sur une surface comprise dans un rayon de 2 surfaces ("2 cases dans le tableau, selon x et y") et si celle-ci est vide, alors un germe y est planté. 
+
+
+Critères du modèle de pollinisation par l'homme 
+
+L'humain pourra polliniser "à la main" un maximum de 6 plantes par jours. Il s'occupe seul de la parcelle en suivant la démarche ci-dessous : 
+
+1) On (utilisateur) définit une liste de (6) coordonnées de SURFACES VIDES dans lesquelles il souhaite faire apparaître de nouveaux individus (si la liste comporte plus de 6 coordonnées, il n'en prendra que 6 au hasard); 
+2) L'humain introduit des germes sur les surfaces désignées, sans toucher aux réserves de nectar des individus. 
+
+
+### Hypothèses 
+Un seul moyen de pollinisation suffit. 
+
+ 
+
+### // Objectifs : 
+Démontrer que chaque moyen de polliniser n’a pas la même efficacité en fonction de l’endroit où se trouve la plante (et le type de plante ?) // 
+
+ 
+
+### // Critères d’évaluation :  
+
+L’évolution des fleurs en fonction du temps en modifiant les facteurs les impactant. 
+
+Compter le nombre de plantes reproduites avec ce moyen de polliniser 
+
+Evaluer le taux de reproduction chez la plante en fonction du pollinisateur 
+
+// 
+
+ 
+
+### Résultats :  
+
+
 
 ### Semaine 1 
 
