@@ -32,9 +32,9 @@ De plus, on notera un indicateur "P" (PLEIN), "M" (MOITIE) et "V" (VIDE) qui inf
 
 ### Critères de la dispersion du pollen par le vent :
 
-1) La fonction cherche au hasard une plante qui est arrivée à maturité (>1.25) et une direction dans laquelle le vent souffle; 
-2) Elle calcule les coordonnées d'une surface sur laquelle déposer le germe de la plante émettrice (elle ne cherche qu'UNE FOIS un emplacement, si cet emplacement n'est pas libre/en dehors de la parcelle, la pollinisation ne se fait pas); 
-3) Le germe est déposé dans la surface obtenue (0.5) et devra croître pour donner une nouvelle plante. 
+1. La fonction cherche au hasard une plante qui est arrivée à maturité (>1.25) et une direction dans laquelle le vent souffle; 
+2. Elle calcule les coordonnées d'une surface sur laquelle déposer le germe de la plante émettrice (elle ne cherche qu'UNE FOIS un emplacement, si cet emplacement n'est pas libre/en dehors de la parcelle, la pollinisation ne se fait pas); 
+3. Le germe est déposé dans la surface obtenue (0.5) et devra croître pour donner une nouvelle plante. 
  
 **AINSI, ON CONTRÔLERA LA FORCE DU VENT EN APPLIQUANT PLUSIEURS FOIS LA FONCTION (le nombre de répétitions correspond à l'index de la force du vent).**
 
@@ -50,8 +50,8 @@ De plus, on notera un indicateur "P" (PLEIN), "M" (MOITIE) et "V" (VIDE) qui inf
 
 L'humain pourra polliniser "à la main" un maximum de 6 plantes par jours. Il s'occupe seul de la parcelle en suivant la démarche ci-dessous : 
 
-1) On (utilisateur) définit une liste de (6) coordonnées de SURFACES VIDES dans lesquelles il souhaite faire apparaître de nouveaux individus (si la liste comporte plus de 6 coordonnées, il n'en prendra que 6 au hasard); 
-2) L'humain introduit des germes sur les surfaces désignées, sans toucher aux réserves de nectar des individus. 
+- On (utilisateur) définit une liste de (6) coordonnées de SURFACES VIDES dans lesquelles il souhaite faire apparaître de nouveaux individus (si la liste comporte plus de 6 coordonnées, il n'en prendra que 6 au hasard); 
+- L'humain introduit des germes sur les surfaces désignées, sans toucher aux réserves de nectar des individus. 
 
 
 ## Hypothèses 
@@ -106,9 +106,7 @@ Finalement, nous avons les simulations des comportements de tous les pollinisate
 Aujourd’hui, nous avons beaucoup avancé dans le code de notre modèle dynamique. En effet, nous avons réalisé 3 versions finales de l’étude de la pollinisation selon le nombre de pollinisateurs et le nombre de jours voulus : 
 
 - Etude de l’évolution de la pollinisation par un pollinisateur pendant un jour. 
-
 - Etude de l’évolution de la pollinisation par un pollinisateur durant plusieurs jours. 
-
 - Etude de l’évolution de la pollinisation par deux pollinisateurs durant plusieurs jours. 
 
 D’autre part, nous avons aussi créé le site web via GitHub et avons fait plusieurs recherches afin de comprendre comment utiliser au mieux GitHub et ainsi pouvoir alimenter le site en intégrant photos, liens, etc. 
@@ -129,8 +127,7 @@ Cette semaine, sur tkinter, nous avons réussi à créer une fleur, et la faire 
 
 Nous avons aussi amélioré le programme en implémentant le taux de germination des plantes (la probabilité qu’elles ont de créer une nouvelle fleur ou non). Nous pouvons par exemple voir à l’aide de ces deux graphiques que le nombre de plantes est plus important sur le graphique sans le taux de germination que celui avec :
 (mettre les deux graphiques : résultat simulation vent avec et sans taux)
-![iMAGE](https://github.com/are-dynamic-2022-g3/Pollinisation/blob/gh-pages/resultat_simulation_vent_avec_taux.PNG)
-
+![Taux_vent](https://github.com/are-dynamic-2022-g3/Pollinisation/blob/gh-pages/resultat_simulation_vent_avec_taux.PNG)
 
 ### Semaine 6
 
