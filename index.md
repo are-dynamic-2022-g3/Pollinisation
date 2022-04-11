@@ -1,4 +1,3 @@
-```Markdown
 ## Thème
 
 Pollinisation 
@@ -142,5 +141,3 @@ Huy Lam HUYNH
 Maryam NEMRA
 
 Mélanie DELLUC 
-```
-
