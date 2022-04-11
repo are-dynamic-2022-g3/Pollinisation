@@ -46,7 +46,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-### Semaine 1 : 
+### Semaine 1 
 
 Lors de cette première séance, nous avons fait beaucoup de recherches sur notre sujet. Nous avons récolté de nombreuses informations à propos des différents pollinisateurs : insectes, animaux, eau, vent, être-humain (pollinisation artificielle), … 
 
@@ -55,7 +55,7 @@ Nous avons décidé d’utiliser les abeilles pour représenter le comportement 
 Nous avons également prévu de simuler la pollinisation par le vent, et par l’humain. 
 
 
-### Semaine 2 : 
+### Semaine 2 
 
 Cette semaine, nous avons débuté le programme en codant tout d’abord plusieurs fonctions permettant de créer une parcelle de terre vide, mais aussi de simuler l’évolution des fleurs au cours du temps jusqu’à leur mort.  
 
@@ -64,7 +64,7 @@ Ensuite, nous avons codé une fonction permettant de simuler le comportement des
 Finalement, nous avons les simulations des comportements de tous les pollinisateurs que nous voulions étudier. 
 
 
-### Semaine 3 : 
+### Semaine 3 
 
 Aujourd’hui, nous avons beaucoup avancé dans le code de notre modèle dynamique. En effet, nous avons réalisé 3 versions finales de l’étude de la pollinisation selon le nombre de pollinisateurs et le nombre de jours voulus : 
 
@@ -77,7 +77,7 @@ Aujourd’hui, nous avons beaucoup avancé dans le code de notre modèle dynamiq
 D’autre part, nous avons aussi créé le site web via GitHub et avons fait plusieurs recherches afin de comprendre comment utiliser au mieux GitHub et ainsi pouvoir alimenter le site en intégrant photos, liens, etc. 
 
   
-### Semaine 4 : 
+### Semaine 4 
 
 Cette semaine nous avons commencé à travailler la partie graphique de notre modèle. Pour cela, nous avons utilisé la bibliothèque graphique tkinter sur Python. Nous avons ainsi pu créer un rectangle vert numéroté représentant la surface de la parcelle vide étudiée lors de notre simulation. 
 
@@ -86,11 +86,21 @@ Nous avons également travaillé sur plusieurs visualisations graphiques modéli
 Nous avons aussi continué nos recherches et avons établi les informations principales à mettre dans notre site web (description du projet, hypothèses, ...).
 
   
-### Semaine 5 : 
+### Semaine 5
 
 Cette semaine, sur tkinter, nous avons réussi à créer une fleur, et la faire apparaître sur la parcelle. 
 
 Nous avons aussi amélioré le programme en implémentant le taux de germination des plantes (la probabilité qu’elles ont de créer une nouvelle fleur ou non). Nous pouvons par exemple voir à l’aide de ces deux graphiques que le nombre de plantes est plus important sur le graphique sans le taux de germination que celui avec :
 (mettre les deux graphiques : résultat simulation vent avec et sans taux)
 
+
+### Membres du groupe 
+
+Simon RIGOLLIER 
+
+Huy Lam HUYNH 
+
+Maryam NEMRA 
+
+Mélanie DELLUC 
 
