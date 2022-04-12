@@ -124,7 +124,8 @@ Nous avons aussi amélioré le programme en implémentant le taux de germination
 (mettre les deux graphiques : résultat simulation vent avec et sans taux)
 
  
-![Taux_vent](https://raw.githubusercontent.com/are-dynamic-2022-g3/Pollinisation/gh-pages/Images/Vent_avec_taux.PNG)
+ 
+   ![Taux_vent](https://raw.githubusercontent.com/are-dynamic-2022-g3/Pollinisation/gh-pages/Images/Vent_avec_taux.PNG)
  
 
 ### Semaine 6
