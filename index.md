@@ -155,7 +155,11 @@ Nous avons aussi amélioré le programme en implémentant le taux de germination
 
 
    - Sans taux
-                               ![Vent_avec_taux](https://raw.githubusercontent.com/are-dynamic-2022-g3/Pollinisation/gh-pages/Images/Vent_avec_taux.PNG)
+                              
+                              
+                              
+                              
+        ![Vent_avec_taux](https://raw.githubusercontent.com/are-dynamic-2022-g3/Pollinisation/gh-pages/Images/Vent_avec_taux.PNG)
    
    
    
@@ -182,7 +186,12 @@ Nous avons aussi amélioré le programme en implémentant le taux de germination
    
    
    - Avec
-                          ![Vent_sans_taux](https://raw.githubusercontent.com/are-dynamic-2022-g3/Pollinisation/gh-pages/Images/Vent_sans_taux.png)
+                        
+                        
+                        
+                        
+                        
+        ![Vent_sans_taux](https://raw.githubusercontent.com/are-dynamic-2022-g3/Pollinisation/gh-pages/Images/Vent_sans_taux.png)
  
 
 ### Semaine 6
