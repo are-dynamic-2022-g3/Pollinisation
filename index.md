@@ -41,9 +41,9 @@ De plus, on notera un indicateur "P" (PLEIN), "M" (MOITIE) et "V" (VIDE) qui inf
 
 ### Critères de la pollinisation par les abeilles :
 
-1) On libère un nombre d'abeilles que l'utilisateur définit dans la parcelle; 
-2) Chaque abeille visite un individu mature au hasard (par simplicité), se nourrit du nectar de la plante et collecte son pollen (on notera que s'il y a plus d'abeilles que d'individus, certaines abeilles ne feront "rien"); 
-3) L'abeille dépose le pollen récupéré sur une surface comprise dans un rayon de 2 surfaces ("2 cases dans le tableau, selon x et y") et si celle-ci est vide, alors un germe y est planté. 
+1. On libère un nombre d'abeilles que l'utilisateur définit dans la parcelle; 
+2. Chaque abeille visite un individu mature au hasard (par simplicité), se nourrit du nectar de la plante et collecte son pollen (on notera que s'il y a plus d'abeilles que d'individus, certaines abeilles ne feront "rien"); 
+3. L'abeille dépose le pollen récupéré sur une surface comprise dans un rayon de 2 surfaces ("2 cases dans le tableau, selon x et y") et si celle-ci est vide, alors un germe y est planté. 
 
 
 ### Critères du modèle de pollinisation par l'homme :
