@@ -1,8 +1,3 @@
-## Thème
-
-Pollinisation 
-
- 
 ## Description du projet 
 
 Notre projet consiste à étudier le comportement des différents pollinisateurs et comment les plantes évoluent et se propagent. Nous avons décidé d’étudier le comportement des principaux pollinisateurs : le vent, les insectes et animaux pollinisateurs (ici on prendra les abeilles), et l’humain.  
