@@ -122,11 +122,10 @@ Cette semaine, sur tkinter, nous avons réussi à créer une fleur, et la faire 
 
 Nous avons aussi amélioré le programme en implémentant le taux de germination des plantes (la probabilité qu’elles ont de créer une nouvelle fleur ou non). Nous pouvons par exemple voir à l’aide de ces deux graphiques que le nombre de plantes est plus important sur le graphique sans le taux de germination que celui avec :
 (mettre les deux graphiques : résultat simulation vent avec et sans taux)
-<center>
+
  
 ![Taux_vent](https://raw.githubusercontent.com/are-dynamic-2022-g3/Pollinisation/gh-pages/Images/Vent_avec_taux.PNG)
  
- </center>
 
 ### Semaine 6
 
