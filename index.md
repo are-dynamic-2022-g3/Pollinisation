@@ -74,6 +74,15 @@ Evaluer le taux de reproduction chez la plante en fonction du pollinisateur
 
 ## Résultats  
 
+(à rajouter)
+
+
+
+## Lien pour tester soi-même la fonction
+
+(à rajouter)
+
+
 
 ## Compte rendu
 
@@ -129,6 +138,9 @@ Nous avons aussi amélioré le programme en implémentant le taux de germination
  
 
 ### Semaine 6
+
+(à rajouter)
+
 
 
 ## Membres du groupe 
