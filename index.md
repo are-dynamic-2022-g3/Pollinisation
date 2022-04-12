@@ -5,7 +5,17 @@ Notre projet consiste à étudier le comportement des différents pollinisateurs
 
 ## //Problématique 
 
-Est-ce que tous les moyens de pollinisation se valent (en fonction des pays …) ? // 
+Idées de problématique :
+
+Est-ce que tous les moyens de pollinisation se valent ?
+
+Quel est le moyen de pollinisation le plus efficace au bon développement des plantes/fleurs ? 
+
+Est-ce que tous les moyens de reproduction chez les plantes sont équivalents ? 
+
+Y a-t-il (existe-t-il) un moyen de pollinisation plus efficace qu’un autre permettant de maintenir le développement des plantes ? 
+
+// 
 
 
 ## Description du modèle  
@@ -49,24 +59,31 @@ L'humain pourra polliniser "à la main" un maximum de 6 plantes par jours. Il s'
 - L'humain introduit des germes sur les surfaces désignées, sans toucher aux réserves de nectar des individus. 
 
 
-## Hypothèses 
-Un seul moyen de pollinisation suffit. 
+## // Hypothèses 
+
+Idées hypothèses :
+
+Un seul moyen de pollinisation suffit à maintenir la survie des espèces de plantes. 
+
+Le moyen de pollinisation par les abeilles est le plus efficace/performant.
+
+//
 
  
 
 ## // Objectifs
 
-Démontrer que chaque moyen de polliniser n’a pas la même efficacité en fonction de l’endroit où se trouve la plante (et le type de plante ?) // 
+Démontrer que chaque moyen de polliniser n’a pas la même efficacité sur le taux de reproduction des plantes. // 
 
  
 
 ## // Critères d’évaluation  
 
-L’évolution des fleurs en fonction du temps en modifiant les facteurs les impactant. 
+L’évolution des fleurs sur la parcelle en fonction du temps et en modifiant les facteurs impactant leur reproduction. 
 
-Compter le nombre de plantes reproduites avec ce moyen de polliniser 
+Le nombre de plantes reproduites avec un moyen de polliniser. 
 
-Evaluer le taux de reproduction chez la plante en fonction du pollinisateur 
+L’évaluation du taux de reproduction chez la plante en fonction du pollinisateur.
 
 // 
 
