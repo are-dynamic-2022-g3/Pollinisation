@@ -49,6 +49,7 @@ L'humain pourra polliniser "à la main" un maximum de 6 plantes par jours. Il s'
 - L'humain introduit des germes sur les surfaces désignées, sans toucher aux réserves de nectar des individus. 
 
 
+
 ## Hypothèse 
 
 Le moyen de pollinisation par les abeilles est le plus efficace.
@@ -71,13 +72,16 @@ Le nombre de plantes à la fin d'un cycle de pollinisation.
 
 ## Résultats  
 
-(à rajouter)
+Simulation de l'évolution du nombre de plantes et du nombre de germes grâce au vent avec un taux de germination :
 
 
+Simulation de l'évolution du nombre de plantes et du nombre de germes grâce aux abeilles avec un taux de germination :
 
-## Lien pour tester soi-même la fonction
 
-(à rajouter)
+Simulation de l'évolution du nombre de plantes et du nombre de germes grâce au vent (avec taux de germination) et aux abeilles (avec taux de germination) :
+
+
+Simulation de l'évolution du nombre de plantes et du nombre de germes grâce aux abeilles sur une plus grande parcelle :
 
 
 
@@ -176,7 +180,7 @@ Nous avons aussi amélioré le programme en implémentant le taux de germination
 
 ### Semaine 6
 
-(à rajouter)
+Cette semaine nous avons finalisé la mise en forme de notre site web. Nous avons également continué la partie graphique sur tkinter en modélisant l’apparition des abeilles sur la parcelle de terre. De plus, nous avons continué de créer des visualisations graphiques représentant différents graphiques montrant l’évolution du nombre de plantes (et du nombre de germes pour certains) selon les différents pollinisateurs modélisés (un ou plusieurs). Ensuite, nous avons essayé de rattacher la partie graphique (tkinter) au corps du programme (sur Jupyter Notebook) afin de mieux visualiser le comportement des abeilles au sein de la parcelle.  
 
 
 
