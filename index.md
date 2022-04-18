@@ -74,17 +74,17 @@ Le nombre de plantes à la fin d'un cycle de pollinisation.
 
 Simulation de l'évolution du nombre de plantes et du nombre de germes grâce au vent avec un taux de germination :
 
-![Vent_taux](https://github.com/are-dynamic-2022-g3/Pollinisation/blob/gh-pages/Images/res_vent_taux_moy_12_10j.PNG)
+![Vent_taux](https://raw.githubusercontent.com/are-dynamic-2022-g3/Pollinisation/gh-pages/Images/res_vent_taux_moy_12_10j.PNG)
 
 
 Simulation de l'évolution du nombre de plantes et du nombre de germes grâce aux abeilles avec un taux de germination :
 
-![Abeilles_taux](https://github.com/are-dynamic-2022-g3/Pollinisation/blob/gh-pages/Images/res_abeilles_taux_moy_9_10j.PNG)
+![Abeilles_taux](https://raw.githubusercontent.com/are-dynamic-2022-g3/Pollinisation/gh-pages/Images/res_abeilles_taux_moy_9_10j.PNG)
 
 
 Simulation de l'évolution du nombre de plantes et du nombre de germes grâce au vent (avec taux de germination) et aux abeilles (avec taux de germination) :
 
-![Multi_taux](https://github.com/are-dynamic-2022-g3/Pollinisation/blob/gh-pages/Images/res_multi_taux_moy_8_5_10j.PNG)
+![Multi_taux](https://raw.githubusercontent.com/are-dynamic-2022-g3/Pollinisation/gh-pages/Images/res_multi_taux_moy_8_5_10j.PNG)
 
 
 Simulation de l'évolution du nombre de plantes et du nombre de germes grâce aux abeilles sur une plus grande parcelle :
