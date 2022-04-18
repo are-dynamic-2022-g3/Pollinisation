@@ -84,6 +84,9 @@ Simulation de l'évolution du nombre de plantes et du nombre de germes grâce au
 Simulation de l'évolution du nombre de plantes et du nombre de germes grâce aux abeilles sur une plus grande parcelle :
 
 
+La pollinisation par le vent semble être plus efficace que la pollinisation par les abeilles. Cependant, cela résulte du fait que la puissance du vent utilisée dans nos graphiques est très forte (= 12) et ce, durant plusieurs jours, ce qui rend la pollinisation par le vent vraiment très efficace. De plus, nous appliquons ces mesures dans une parcelle restreinte, ce qui rend la pollinisation par les abeilles moins efficace. On peut le voir sur le dernier graphique : nous avons agrandi la taille de la parcelle et on remarque que la pollinisation par les abeilles est désormais plus performante dans une parcelle de terre plus grande.  
+
+
 
 ## Compte rendu
 
