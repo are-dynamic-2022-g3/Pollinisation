@@ -5,9 +5,8 @@ Notre projet consiste à étudier le comportement des différents pollinisateurs
 
 ## Problématique 
 
-Quel est le moyen de pollinisation le plus efficace au bon développement des plantes ? 
- 
-
+Quel est le moyen de pollinisation le plus efficace au bon développement des plantes ?
+<div style="text-align:center"><img src="https://www.lesdorloteurs.fr/uploads/2021/05/2.png" /></div>
 
 ## Description du modèle  
 
