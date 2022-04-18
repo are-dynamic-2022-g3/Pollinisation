@@ -50,15 +50,9 @@ L'humain pourra polliniser "à la main" un maximum de 6 plantes par jours. Il s'
 - L'humain introduit des germes sur les surfaces désignées, sans toucher aux réserves de nectar des individus. 
 
 
-## // Hypothèses 
+## Hypothèse 
 
-Idées hypothèses :
-
-Un seul moyen de pollinisation suffit à maintenir la survie des espèces de plantes. 
-
-Le moyen de pollinisation par les abeilles est le plus efficace/performant.
-
-//
+Le moyen de pollinisation par les abeilles est le plus efficace.
 
  
 
