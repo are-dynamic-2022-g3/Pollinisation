@@ -3,19 +3,10 @@
 Notre projet consiste à étudier le comportement des différents pollinisateurs et comment les plantes évoluent et se propagent. Nous avons décidé d’étudier le comportement des principaux pollinisateurs : le vent, les insectes et animaux pollinisateurs (ici on prendra les abeilles), et l’humain.  
 
 
-## //Problématique 
+## Problématique 
 
-Idées de problématique :
-
-Est-ce que tous les moyens de pollinisation se valent ?
-
-Quel est le moyen de pollinisation le plus efficace au bon développement des plantes/fleurs ? 
-
-Est-ce que tous les moyens de reproduction chez les plantes sont équivalents ? 
-
-Y a-t-il (existe-t-il) un moyen de pollinisation plus efficace qu’un autre permettant de maintenir le développement des plantes ? 
-
-// 
+Quel est le moyen de pollinisation le plus efficace au bon développement des plantes ? 
+ 
 
 
 ## Description du modèle  
