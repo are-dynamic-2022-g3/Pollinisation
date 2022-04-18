@@ -74,14 +74,22 @@ Le nombre de plantes à la fin d'un cycle de pollinisation.
 
 Simulation de l'évolution du nombre de plantes et du nombre de germes grâce au vent avec un taux de germination :
 
+![Vent_taux](https://github.com/are-dynamic-2022-g3/Pollinisation/blob/gh-pages/Images/res_vent_taux_moy_12_10j.PNG)
+
 
 Simulation de l'évolution du nombre de plantes et du nombre de germes grâce aux abeilles avec un taux de germination :
+
+![Abeilles_taux](https://github.com/are-dynamic-2022-g3/Pollinisation/blob/gh-pages/Images/res_abeilles_taux_moy_9_10j.PNG)
 
 
 Simulation de l'évolution du nombre de plantes et du nombre de germes grâce au vent (avec taux de germination) et aux abeilles (avec taux de germination) :
 
+![Multi_taux](https://github.com/are-dynamic-2022-g3/Pollinisation/blob/gh-pages/Images/res_multi_taux_moy_8_5_10j.PNG)
+
 
 Simulation de l'évolution du nombre de plantes et du nombre de germes grâce aux abeilles sur une plus grande parcelle :
+
+![Abeilles_taux_grandeparcelle](https://raw.githubusercontent.com/are-dynamic-2022-g3/Pollinisation/gh-pages/Images/res_abeilles_moy_grande_parcelle.PNG)
 
 
 La pollinisation par le vent semble être plus efficace que la pollinisation par les abeilles. Cependant, cela résulte du fait que la puissance du vent utilisée dans nos graphiques est très forte (= 12) et ce, durant plusieurs jours, ce qui rend la pollinisation par le vent vraiment très efficace. De plus, nous appliquons ces mesures dans une parcelle restreinte, ce qui rend la pollinisation par les abeilles moins efficace. On peut le voir sur le dernier graphique : nous avons agrandi la taille de la parcelle et on remarque que la pollinisation par les abeilles est désormais plus performante dans une parcelle de terre plus grande.  
