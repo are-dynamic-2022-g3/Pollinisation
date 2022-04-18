@@ -56,21 +56,17 @@ Le moyen de pollinisation par les abeilles est le plus efficace.
 
  
 
-## // Objectifs
+## Objectif
 
-Démontrer que chaque moyen de polliniser n’a pas la même efficacité sur le taux de reproduction des plantes. // 
+Mesurer l'efficacité des moyens de pollinisation. 
 
  
 
-## // Critères d’évaluation  
+## Critères d’évaluation  
 
-L’évolution des fleurs sur la parcelle en fonction du temps et en modifiant les facteurs impactant leur reproduction. 
+L’évolution des fleurs sur la parcelle en fonction du temps et l'influence des facteurs sur leur reproduction. 
 
-Le nombre de plantes reproduites avec un moyen de polliniser. 
-
-L’évaluation du taux de reproduction chez la plante en fonction du pollinisateur.
-
-// 
+Le nombre de plantes à la fin d'un cycle de pollinisation.
 
  
 
